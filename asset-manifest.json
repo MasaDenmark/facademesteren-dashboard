@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82b292de.css",
-    "main.js": "/static/js/main.ef6f4c27.js",
+    "main.js": "/static/js/main.6fe93a33.js",
     "static/js/27.03f5bffa.chunk.js": "/static/js/27.03f5bffa.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.82b292de.css",
-    "static/js/main.ef6f4c27.js"
+    "static/js/main.6fe93a33.js"
   ]
 }
